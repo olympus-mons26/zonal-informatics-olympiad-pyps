@@ -7,8 +7,8 @@ See [https://www.iarcs.org.in/inoi/current.php](https://www.iarcs.org.in/inoi/cu
 
 ## How to use?
 
-Just clone the Github Repository by using ` git clone https://github.com/olympus-mons26/zonal-informatics-olympiad-pyps.git` or by downloading the .zip file and extracting it. 
+Just clone the Github Repository by using `git clone https://github.com/olympus-mons26/zonal-informatics-olympiad-pyps.git` or by downloading the .zip file and extracting it. 
 
-Papers are in the ` /papers ` folder and the solutions are in the ` /solutions`  folder.
+Papers are in the `/papers ` folder and the solutions are in the `/solutions`  folder.
 
 Baljit Panda (olympus-mons26)
